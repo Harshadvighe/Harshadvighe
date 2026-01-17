@@ -99,12 +99,6 @@
 - Emergency communication for zero-network zones  
 - Self-healing node relay routing concept  
 
----
-
-## 🏆 Achievements
-- 🥇 Tata InnoVent 2026 (Stage 1 Selection) – BrakeSafe  
-- 🎯 KPIT Sparkle 2026 – Smartresq-ai  
-- 🧪 DIPEX 2026 – InfraSence  
 
 ---
 

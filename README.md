@@ -47,14 +47,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750125-4cbe84f9-0af1-4f84-9f9c-550bffca9b41.gif" width="70%">
 </p>
 
-## 🧰 Skills & Tools (Icons)
+## 🧰 Skills & Tools 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,c,python,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Animated + Stable)
+## 📊 GitHub Stats 
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshadvighe&theme=dark&hide_border=true" />
@@ -71,14 +71,14 @@
 
 ---
 
-## 🔥 Contribution Activity Graph (Animated look)
+## 🔥 Contribution Activity Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshadvighe&theme=github-compact&hide_border=true&color=ff7a00&line=ff3d00&point=ffffff" />
 </p>
 
 ---
 
-## 🐍 Snake Contribution Animation
+## 🐍 Snake Contribution 
 <p align="center">
   <img src="https://raw.githubusercontent.com/harshadvighe/harshadvighe/output/github-contribution-grid-snake.svg" />
 </p>

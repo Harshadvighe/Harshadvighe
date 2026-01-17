@@ -37,15 +37,15 @@
 
 ---
 
-## 📊 Live GitHub Stats (100% Fix)
+## 📊 Live GitHub Stats (Fixed + Refresh)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshadvighe&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harshadvighe&show_icons=true&theme=dark&hide_border=true&cache_seconds=7200" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshadvighe&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadvighe&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harshadvighe&layout=compact&theme=dark&hide_border=true&cache_seconds=7200" />
 </p>
 
 
